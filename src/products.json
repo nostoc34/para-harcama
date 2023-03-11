@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "title": "Sakız",
+        "price": 1,
+        "image": "https://st2.myideasoft.com/idea/ad/25/myassets/products/796/falim-5-li-damla-7gr-300822-3929568.jpeg?revision=1603978629"
+    },
+    {
+        "id": 2,
+        "title": "Çikolata",
+        "price": 5,
+        "image": "https://www.mismarsanalmarket.com/UserFiles/Fotograflar/org/9647-ulker-sutlu-cikolata-70-gr-tablet-0157708-indir-jpg-indir.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Cips",
+        "price": 7,
+        "image": "https://images.migrosone.com/sanalmarket/product/5082036/5082036-fe9022-1650x1650.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Kola",
+        "price": 10,
+        "image": "data:image/jpeg;base64,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"
+    },
+    {
+        "id": 5,
+        "title": "Tişört",
+        "price": 300,
+        "image": "https://contents.mediadecathlon.com/p1306727/k$8f5c11a23693ecb09f0f73a556aa2683/sq/8330843.jpg?format=auto&f=800x0"
+    },
+    {
+        "id": 6,
+        "title": "Pantolon",
+        "price": 600,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdFoVc2EGGYWqkreDPPT2JpwkdbaBeRGFwQ&usqp=CAU"
+    },
+    {
+        "id": 7,
+        "title": "Ayakkabı",
+        "price": 1200,
+        "image": "https://floimages.mncdn.com/media/catalog/product/21-11/15/yazkis-kadin-siyah-uzun-keten-spor-ayakkabi-7331-1636983824.JPG"
+    },
+    {
+        "id": 8,
+        "title": "Kazak",
+        "price": 450,
+        "image": "https://st-calvinkleinecom.mncdn.com/mnresize/1800/1800/Content/media/ProductImg/original/j20j219774beh-kadin-organik-pamuklu-bogazli-kazak-638055937727004365.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Bisiklet",
+        "price": 5000,
+        "image": "https://contents.mediadecathlon.com/p1278143/k$dd7204716b2fd0403424dec3fdcc6c8b"
+    },
+    {
+        "id": 10,
+        "title": "Motor",
+        "price": 50000,
+        "image": "https://www.kanuni.com.tr/wp-content/uploads/2022/06/trodonxs-50-mavi-1024x683.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Araba",
+        "price": 300000,
+        "image": "https://static8.depositphotos.com/1062035/818/i/600/depositphotos_8184062-stock-photo-business-sedan.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Yat",
+        "price": 1000000,
+        "image": "https://tertemizaraba.com/wp-content/uploads/2018/07/yat-tekne-paketi-1.png"
+    }
+
+]
